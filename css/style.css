@@ -1,3 +1,41 @@
-*{
+/* *{
     outline: dotted
+} */
+
+body{
+    margin: 0 auto;
+    width: 1000px;
+    background-color: rgba(169, 169 169. 0.301);
+}
+
+ul li {
+    display: inline;
+    padding: 10px;
+    background-color: blanchedalmond;
+    border-radius: 10px; 
+    /* border radius makes those buttons rounded */
+}
+
+h1 {
+    background-color: bisque;
+    color: coral;
+
+}
+
+nav {
+    background-color: cornsilk;
+    height: 200px;
+}
+
+#something-else {
+    border: 5px solid #00ff00
+}
+
+.more-content {
+    color: white;
+    background-color: #0000ff;
+}
+
+section p.more-content {
+    background-color: red;
 }
