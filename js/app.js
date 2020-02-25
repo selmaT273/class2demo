@@ -33,22 +33,30 @@ console.log('This is working!');
 //     console.log('it is truthy enough...');
 // }
 
-alert('Welcome to space ship repair 101');
-var spaceHandle = prompt('what is your space handle?');
-var spaceShipPart = prompt('what spaceship part do you need?');
+// alert('Welcome to space ship repair 101');
+// var spaceHandle = prompt('what is your space handle?');
+// var spaceShipPart = prompt('what spaceship part do you need?');
 
-//write the switch logic
+// //write the switch logic
 
-switch (spaceShipPart){
-    case '1':
-        console.log('This is space ship part one.');
-    break;
-    case '2': 
-        console.log('This is space ship part one.');
-    break;
-    case '3':
-        console.log('This is space ship part one.');
-    break;
-    default:
-        alert('I dont think we have your parts.');
-    }
+// switch (spaceShipPart){
+//     case '1':
+//         console.log('This is space ship part one.');
+//     break;
+//     case '2': 
+//         console.log('This is space ship part one.');
+//     break;
+//     case '3':
+//         console.log('This is space ship part one.');
+//     break;
+//     default:
+//         alert('I dont think we have your parts.');
+//     }
+
+//create an empty array
+// var emptyArray = [];
+
+// create an array full of quiz answers by putting values directly into a new array
+// var quizAnswer = [a, b, c, d];
+
+// we can create an array of arrays nestedArray

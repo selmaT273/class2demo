@@ -19,7 +19,7 @@ ul li {
 h1 {
     background-color: bisque;
     color: coral;
-
+    margin-bottom: 20px;
 }
 
 nav {
@@ -38,4 +38,4 @@ nav {
 
 section p.more-content {
     background-color: red;
-}
+} */ 
